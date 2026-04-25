@@ -65,7 +65,7 @@ The app will open in your browser at `http://localhost:8501`.
 ## ☁️ Live Demo
 
 Deployed on **Streamlit Community Cloud**:
-> 🔗 [your-app-url.streamlit.app](https://your-app-url.streamlit.app)
+> 🔗 https://superstore-dashboard-j46nspxkpmeeez9zey4cy8.streamlit.app/
 
 *(Replace this link with your actual deployment URL after deploying)*
 
